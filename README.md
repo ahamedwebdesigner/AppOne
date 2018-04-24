@@ -1,0 +1,11 @@
+- class project for JUNit
+	- what is junit testing
+	- create maven project
+	- add dependencies 
+		- junit dependencies
+		- add maven plugins
+		
+	- create test case and run the test case using
+		- maven
+		- eclipse ide
+		- using custom runner class
